@@ -1,0 +1,4 @@
+﻿  TetrisYJ.cpp
+c:\users\steve\source\repos\tetrisyj\tetrisyj\tetrisyj.cpp(100): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\steve\source\repos\tetrisyj\tetrisyj\tetrisyj.cpp(156): warning C4101: 'cnt': unreferenced local variable
+  TetrisYJ.vcxproj -> C:\Users\steve\source\repos\TetrisYJ\Debug\TetrisYJ.exe
